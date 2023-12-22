@@ -1,2 +1,2 @@
 # sudoku solver
- Sudoku solver using constraint satisfaction. Made for an AI course assignment,
+ Sudoku solver using constraint satisfaction. Made for an AI course assignment.
